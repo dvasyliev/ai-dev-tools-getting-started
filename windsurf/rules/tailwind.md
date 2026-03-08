@@ -1,6 +1,6 @@
 ---
 trigger: glob
-globs: **/*.css, **/*.tsx, **/*.jsx, tailwind.config.js, tailwind.config.ts
+globs: "**/*.css, **/*.tsx, **/*.jsx, tailwind.config.js, tailwind.config.ts"
 ---
 
 <!-- Source:https://github.com/PatrickJS/awesome-cursorrules/blob/main/rules-new/tailwind.mdc -->

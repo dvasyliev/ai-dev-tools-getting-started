@@ -1,6 +1,6 @@
 ---
 trigger: glob
-globs: **/*.ts
+globs: "**/*.ts"
 ---
 
 <!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/typescript-5-es2022.instructions.md -->

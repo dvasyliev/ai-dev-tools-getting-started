@@ -1,7 +1,6 @@
---
+---
 name: react-performance
 description: Performance optimization for React web applications. Use when optimizing renders, implementing virtualization, memoizing components, or debugging performance issues.
-
 ---
 
 <!-- Source: https://www.skillsdirectory.com/skills/aiskillstore-react-performance -->

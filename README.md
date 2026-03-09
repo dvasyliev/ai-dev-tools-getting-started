@@ -32,3 +32,27 @@ Most files have a `source:` link to the original repo.
 - [Anthropic skills](https://github.com/anthropics/skills/tree/main/skills)
 - [Vercel skills](https://skills.sh/)
 - [AGNXI skills](https://agnxi.com/)
+
+# My Courses
+
+#### AI Coding Assistants Courses
+
+😈 [GitHub Copilot for Beginners: AI Coding Crash Course](https://linkly.link/2B4WN)\
+👻 [Cursor AI for Beginners: AI Coding Crash Course](https://linkly.link/2CKBT)\
+🎆 [Google Antigravity for Beginners: AI Coding Crash Course ](https://linkly.link/2ZqIu)\
+🏄🏻‍♂️ [Windsurf for Beginners: AI Coding Crash Course ](https://linkly.link/2DUC9)
+
+#### Vibe Coding Courses
+
+❤️ [Lovable AI: Complete Guide for Vibe Coding](https://linkly.link/2DUC1)\
+🦾 [Vibe Coding for Developers: v0 AI, Supabase, Vercel Deploy](https://linkly.link/2ZqJ5)
+
+#### Front-End Courses
+
+🧑🏻‍💻 [React Crash Course: From Zero to Hero](https://linkly.link/1zdiJ)\
+🤖 [React.js AI Chatbot App with ChatGPT, Gemini AI and DeepSeek](https://linkly.link/2DUBq)
+
+#### Full-Stack Courses
+
+👓 [Next.js Crash Course: Build a Full-Stack App in a Weekend](https://linkly.link/2EUQ5)\
+🧩 [Node.js Crash Course: Build a REST API in a Weekend](https://linkly.link/2EUQ6)

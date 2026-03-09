@@ -1,9 +1,9 @@
 ---
 description: "Guidelines for TypeScript Development targeting TypeScript 5.x and ES2022 output"
 applyTo: "**/*.ts"
+source: https://github.com/github/awesome-copilot/blob/main/instructions/typescript-5-es2022.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/typescript-5-es2022.instructions.md -->
 
 # TypeScript Development
 

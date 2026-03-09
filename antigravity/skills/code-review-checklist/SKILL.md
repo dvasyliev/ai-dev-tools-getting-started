@@ -2,11 +2,10 @@
 name: code-review-checklist
 description: "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability"
 risk: unknown
-source: community
+source: https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/code-review-checklist/SKILL.md
 date_added: "2026-02-27"
 ---
 
-<!-- Source: https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/code-review-checklist/SKILL.md -->
 
 # Code Review Checklist
 

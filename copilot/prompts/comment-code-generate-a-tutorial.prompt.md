@@ -1,9 +1,9 @@
 ---
 description: "Transform this Python script into a polished, beginner-friendly project by refactoring the code, adding clear instructional comments, and generating a complete markdown tutorial."
 agent: "agent"
+source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/comment-code-generate-a-tutorial.prompt.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/comment-code-generate-a-tutorial.prompt.md -->
 
 Transform this Python script into a polished, beginner-friendly project by refactoring the code, adding clear instructional comments, and generating a complete markdown tutorial.
 

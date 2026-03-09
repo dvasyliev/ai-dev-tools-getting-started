@@ -1,9 +1,9 @@
 ---
 description: "Best practices for building Next.js (App Router) apps with modern caching, tooling, and server/client boundaries (aligned with Next.js 16.1.1)."
 applyTo: "**/*.tsx, **/*.ts, **/*.jsx, **/*.js, **/*.css"
+source: https://github.com/github/awesome-copilot/blob/main/instructions/nextjs.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/nextjs.instructions.md -->
 
 # Next.js Best Practices for LLMs (2026)
 

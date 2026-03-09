@@ -1,9 +1,9 @@
 ---
 description: "Playwright test generation instructions"
 applyTo: "**"
+source: https://github.com/github/awesome-copilot/blob/main/instructions/playwright-typescript.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/playwright-typescript.instructions.md -->
 
 ## Test Writing Guidelines
 

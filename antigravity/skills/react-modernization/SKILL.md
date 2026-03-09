@@ -2,11 +2,10 @@
 name: react-modernization
 description: "Upgrade React applications to latest versions, migrate from class components to hooks, and adopt concurrent features. Use when modernizing React codebases, migrating to React Hooks, or upgrading to..."
 risk: unknown
-source: community
+source: https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/react-modernization/SKILL.md
 date_added: "2026-02-27"
 ---
 
-<!-- Source: https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/react-modernization/SKILL.md -->
 
 # React Modernization
 

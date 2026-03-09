@@ -4,9 +4,9 @@ description: React 19 component patterns, hooks, state management, and compositi
 type: skill
 agents: [frontend-architect]
 knowledge: [react-patterns.json, component-patterns.json]
+source: https://www.skillsdirectory.com/skills/gitwalter-react-patterns
 ---
 
-<!-- Source: https://www.skillsdirectory.com/skills/gitwalter-react-patterns -->
 
 # React Patterns Skill
 

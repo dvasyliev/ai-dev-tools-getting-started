@@ -1,9 +1,9 @@
 ---
 description: "ReactJS development standards and best practices"
 applyTo: "**/*.jsx, **/*.tsx, **/*.js, **/*.ts, **/*.css, **/*.scss"
+source: https://github.com/github/awesome-copilot/blob/main/instructions/reactjs.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/reactjs.instructions.md -->
 
 # ReactJS Development Instructions
 

@@ -1,9 +1,9 @@
 ---
 name: frontend-testing
 description: Implement comprehensive frontend testing using Jest, Vitest, React Testing Library, and Cypress. Use when building robust test suites for UI and integration tests.
+source: https://www.skillsdirectory.com/skills/aj-geddes-frontend-testing
 ---
 
-<!-- Source: https://www.skillsdirectory.com/skills/aj-geddes-frontend-testing -->
 
 # Frontend Testing
 

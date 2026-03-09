@@ -1,9 +1,9 @@
 ---
 name: context7
 description: Fetch up-to-date library documentation using Context7 API. Use this skill when the user asks for docs, examples, or help with a specific library/framework (e.g., "look up React docs", "context7 nextjs routing", "fetch docs for fastapi").
+source: https://www.skillsdirectory.com/skills/majiayu000-context7
 ---
 
-<!-- Source: https://www.skillsdirectory.com/skills/majiayu000-context7 -->
 
 # Context7 Documentation Fetcher
 

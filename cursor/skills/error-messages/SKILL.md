@@ -1,9 +1,9 @@
 ---
 name: error-messages
 description: Error Message Style Guide for Validation Errors
+source: https://agnxi.com/github/skills/error-messages
 ---
 
-<!-- Source: https://agnxi.com/github/skills/error-messages -->
 
 # Error Message Style Guide
 

@@ -1,4 +1,6 @@
-<!-- Source: https://github.com/dvasyliev/cursor-commands/blob/main/.cursor/commands/write-unit-tests.md -->
+---
+source: https://github.com/hamzafer/cursor-commands/blob/main/.cursor/commands/write-unit-tests.md
+---
 
 # Write Unit Tests
 

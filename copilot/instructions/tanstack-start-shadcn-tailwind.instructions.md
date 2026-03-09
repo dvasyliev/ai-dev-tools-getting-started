@@ -1,9 +1,9 @@
 ---
 description: "Guidelines for building TanStack Start applications"
 applyTo: "**/*.ts, **/*.tsx, **/*.js, **/*.jsx, **/*.css, **/*.scss, **/*.json"
+source: https://github.com/github/awesome-copilot/blob/main/instructions/tanstack-start-shadcn-tailwind.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/tanstack-start-shadcn-tailwind.instructions.md -->
 
 # TanStack Start with Shadcn/ui Development Guide
 

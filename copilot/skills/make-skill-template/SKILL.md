@@ -1,9 +1,9 @@
 ---
 name: make-skill-template
 description: 'Create new Agent Skills for GitHub Copilot from prompts or by duplicating this template. Use when asked to "create a skill", "make a new skill", "scaffold a skill", or when building specialized AI capabilities with bundled resources. Generates SKILL.md files with proper frontmatter, directory structure, and optional scripts/references/assets folders.'
+source: https://github.com/github/awesome-copilot/blob/main/skills/make-skill-template/SKILL.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/skills/make-skill-template/SKILL.md -->
 
 # Make Skill Template
 

@@ -2,11 +2,10 @@
 name: web-performance-optimization
 description: "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance"
 risk: unknown
-source: community
+source: https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/web-performance-optimization/SKILL.md
 date_added: "2026-02-27"
 ---
 
-<!-- Source: https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/web-performance-optimization/SKILL.md -->
 
 # Web Performance Optimization
 

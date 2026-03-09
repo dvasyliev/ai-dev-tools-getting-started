@@ -1,8 +1,8 @@
 ---
 trigger: always_on
+source: https://github.com/github/awesome-copilot/blob/main/instructions/nextjs.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/nextjs.instructions.md -->
 
 # Next.js Best Practices for LLMs (2026)
 

@@ -1,9 +1,9 @@
 ---
 name: write-coding-standards-from-file
 description: "Write a coding standards document for a project using the coding styles from the file(s) and/or folder(s) passed as arguments in the prompt."
+source: https://github.com/github/awesome-copilot/blob/main/skills/write-coding-standards-from-file/SKILL.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/skills/write-coding-standards-from-file/SKILL.md -->
 
 # Write Coding Standards From File
 

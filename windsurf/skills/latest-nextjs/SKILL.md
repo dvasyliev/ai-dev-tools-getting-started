@@ -2,9 +2,9 @@
 name: latest-nextjs
 description: Latest React and Next.js features for past 1.5 years (mid-2024 to 2026)
 updated: 2026-01-11
+source: https://www.skillsdirectory.com/skills/majiayu000-latest-nextjs
 ---
 
-<!-- Source: https://www.skillsdirectory.com/skills/majiayu000-latest-nextjs -->
 
 # Latest React & Next.js Skill
 

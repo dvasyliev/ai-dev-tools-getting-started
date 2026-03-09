@@ -1,9 +1,9 @@
 ---
 agent: "agent"
 description: "Prompt for creating detailed feature implementation plans, following Epoch monorepo structure."
+source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/breakdown-feature-implementation.prompt.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/breakdown-feature-implementation.prompt.md -->
 
 # Feature Implementation Plan Prompt
 

@@ -1,9 +1,9 @@
 ---
 trigger: glob
 globs: "**/*.ts"
+source: https://github.com/github/awesome-copilot/blob/main/instructions/typescript-5-es2022.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/typescript-5-es2022.instructions.md -->
 
 # TypeScript Development
 

@@ -1,9 +1,9 @@
 ---
 agent: "agent"
 description: "Create a README.md file for the project"
+source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/create-readme.prompt.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/create-readme.prompt.md -->
 
 ## Role
 

@@ -12,9 +12,9 @@ tools:
     "web/fetch",
   ]
 description: "Set up complete GitHub Copilot configuration for a new project based on technology stack"
+source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/github-copilot-starter.prompt.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/github-copilot-starter.prompt.md -->
 
 You are a GitHub Copilot setup specialist. Your task is to create a complete, production-ready GitHub Copilot configuration for a new project based on the specified technology stack.
 

@@ -1,9 +1,9 @@
 ---
 description: "Best practices for writing JavaScript/TypeScript tests using Jest, including mocking strategies, test structure, and common patterns."
 agent: "agent"
+source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/javascript-typescript-jest.prompt.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts/javascript-typescript-jest.prompt.md -->
 
 ### Test Structure
 

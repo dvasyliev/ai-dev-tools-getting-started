@@ -1,9 +1,9 @@
 ---
 name: javascript-refactoring
 description: Instructions for refactoring JavaScript code into separate files
+source: https://agnxi.com/github/skills/javascript-refactoring
 ---
 
-<!-- Source: https://agnxi.com/github/skills/javascript-refactoring -->
 
 # JavaScript Code Refactoring Guide
 

@@ -1,9 +1,9 @@
 ---
 description: "Next.js + Tailwind development standards and instructions"
 applyTo: "**/*.tsx, **/*.ts, **/*.jsx, **/*.js, **/*.css"
+source: https://github.com/github/awesome-copilot/blob/main/instructions/nextjs-tailwind.instructions.md
 ---
 
-<!-- Source: https://github.com/github/awesome-copilot/blob/main/instructions/nextjs-tailwind.instructions.md -->
 
 # Next.js + Tailwind Development Instructions
 

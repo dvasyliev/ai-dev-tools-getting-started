@@ -1,9 +1,9 @@
 ---
 name: frontend-testing
 description: Generate Vitest + React Testing Library tests for Dify frontend components, hooks, and utilities. Triggers on testing, spec files, coverage, Vitest, RTL, unit tests, integration tests, or write/review test requests.
+source: https://agnxi.com/langgenius/skills/frontend-testing
 ---
 
-<!-- Source: https://agnxi.com/langgenius/skills/frontend-testing -->
 
 # Dify Frontend Testing Skill
 

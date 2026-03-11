@@ -28,10 +28,13 @@ Most files have a `source:` link to the original repo.
 - [Copilot skills](https://github.com/github/awesome-copilot/tree/main/skills)
 - [Cursor rules](https://cursor.directory/rules)
 - [Cursor commands](https://github.com/hamzafer/cursor-commands/tree/main/.cursor/commands)
+- [Antigravity workflows](https://github.com/harikrishna8121999/antigravity-workflows/tree/main/workflows)
 - [Antigravity skills](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills)
 - [Anthropic skills](https://github.com/anthropics/skills/tree/main/skills)
 - [Vercel skills](https://skills.sh/)
+- [AgentSkill.sh](https://agentskill.sh/)
 - [AGNXI skills](https://agnxi.com/)
+- [MoizIbnYousaf skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/tree/main/skills)
 
 # My Courses
 

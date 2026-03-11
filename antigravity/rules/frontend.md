@@ -1,0 +1,23 @@
+# Frontend React App Rules
+
+- Use React functional components only.
+- Use TypeScript for all new code.
+- Keep components small and focused.
+- Prefer reusable components over duplicated UI.
+- Keep business logic outside JSX when possible.
+- Use clear, full variable and function names.
+- Store shared types in common files, not inside components.
+- Use props typing for every component.
+- Keep files and folders consistently named.
+- One component per folder when the component is not trivial.
+- Write simple, readable code before clever code.
+- Handle loading, error, and empty states.
+- Avoid unnecessary re-renders.
+- Use hooks only at the top level.
+- Do not mutate state directly.
+- Prefer composition over large conditional components.
+- Keep styles consistent and predictable.
+- Use CSS modules for scoped styling.
+- Remove unused code, imports, and comments.
+- Add tests for important logic and reusable components.
+- Follow existing project patterns before introducing new ones.

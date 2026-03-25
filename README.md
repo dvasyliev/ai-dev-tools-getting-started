@@ -32,6 +32,7 @@ Most files have a `source:` link to the original repo.
 - [Antigravity skills](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills)
 - [Anthropic skills](https://github.com/anthropics/skills/tree/main/skills)
 - [Vercel skills](https://skills.sh/)
+- [Skills Marketplace](https://skillsmp.com/)
 - [AgentSkill.sh](https://agentskill.sh/)
 - [AGNXI skills](https://agnxi.com/)
 - [MoizIbnYousaf skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/tree/main/skills)

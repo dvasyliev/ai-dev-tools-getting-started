@@ -23,6 +23,14 @@ Most files have a `source:` link to the original repo.
 
 ## Useful resources
 
+This repository and the linked examples are provided for informational purposes only.
+
+Before using any AI files from the marketplaces and resources listed below, it is a good idea to review them for security, privacy, and project fit.
+
+This applies to instructions, prompts, rules, commands, workflows, skills, agents, and similar files. In particular, make sure you understand what they do, what access they require, and whether they match your project standards and expectations.
+
+Some marketplaces indicate that a file, author, or version has been reviewed or verified through a security process. That can be a helpful signal, but it is still best to do your own review before installing, copying, or running third-party content.
+
 - [Copilot instructions](https://github.com/github/awesome-copilot/tree/main/instructions) (from Awesome Copilot)
 - [Copilot prompts](https://github.com/github/awesome-copilot/tree/9efb8cd3885ad3a445e11de2b6cc7ab3abcbdef6/prompts) (from Awesome Copilot)
 - [Copilot skills](https://github.com/github/awesome-copilot/tree/main/skills) (from Awesome Copilot)

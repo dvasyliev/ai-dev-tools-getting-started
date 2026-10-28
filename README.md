@@ -47,13 +47,14 @@ Some marketplaces indicate that a file, author, or version has been reviewed or 
 - [MoizIbnYousaf skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills/tree/main/skills)
 - [Vibe Coding Tools Agents](https://www.vibecodingtools.tech/agents)
 
+<!-- COURSES:START -->
 # All My Courses
 
 #### Agentic AI Courses
 
 🎛️ [Harness Engineering: Modern AI Software Development Bootcamp](https://go.dvasyliev.com/harness-engineering)\
 🦞 [OpenClaw for Developers: AI Coding Crash Course](https://go.dvasyliev.com/openclaw)\
-🧑🏻‍💻 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)\
+🧑🏻‍💻 [AI Code Review: Evaluate Python Code with Confidence](https://go.dvasyliev.com/evaluating-ai-code)
 
 #### AI Tools Courses
 
@@ -89,3 +90,4 @@ Some marketplaces indicate that a file, author, or version has been reviewed or 
 
 👣 [AI Agents with OpenAI AgentKit: Hands-On Guide](https://go.dvasyliev.com/agentkit)\
 💬 [ChatGPT for Developers: AI Coding Crash Course](https://go.dvasyliev.com/chatgpt)
+<!-- COURSES:END -->
